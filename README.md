@@ -52,6 +52,7 @@ Switch the **theme music** on/off, and decide if games should be saved automatic
 
 ## Gameplay Demo
 
-<video src="superhexagon_v2.mp4" width="600" controls></video>
+<video src="https://github.com/Leili-M/SuperHexagon_V1/raw/main/superhexagon_v2.mp4" width="640" controls></video>
+
 
 
