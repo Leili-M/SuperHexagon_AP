@@ -51,7 +51,9 @@ You can scroll through them in a simple history panel.
 Switch the **theme music** on/off, and decide if games should be saved automatically.
 
 ## Gameplay Demo
-<video src="https://github.com/Leili-M/SuperHexagon_AP/releases/download/v_1/superhexagon_v1gif.gif" width="640" controls></video>
+<p align="center">
+  <img src="superhexagon_v1gif.gif" width="500" alt="Super Hexagon gameplay demo"/>
+</p>
 
 
 
