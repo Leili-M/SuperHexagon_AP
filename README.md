@@ -52,7 +52,7 @@ Switch the **theme music** on/off, and decide if games should be saved automatic
 
 ## Gameplay Demo
 <p align="center">
-  <img src="superhexagon_v1gif.gif" width="500" alt="Super Hexagon gameplay demo"/>
+  <img src="superhexagon_v1gif.gif" width="1500" height ="1200" alt="Super Hexagon gameplay demo"/>
 </p>
 
 
