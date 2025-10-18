@@ -38,7 +38,7 @@ The longer you survive, the faster and crazier it gets.
 - **Exit:** gracefully quit the game  
 
 ###  Gameplay
-- Rotate with arrow keys (`←` / `→`)  
+- Rotate with arrow keys (`←` / `→`) and mouse.(switch by pressing M)
 - Dynamic **color shifts**, **rotating background**, and **speed increases** over time  
 - Procedural obstacle patterns — never the same twice  
 - Collision detection ends the run immediately  
@@ -52,6 +52,6 @@ Switch the **theme music** on/off, and decide if games should be saved automatic
 
 ## Gameplay Demo
 
-<video src="vido/demo.mp4" width="600" controls loop autoplay muted></video>
+<video src="vido/superhexagon_v2.mp4" width="600" controls loop autoplay muted></video>
 
 
