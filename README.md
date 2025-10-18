@@ -52,6 +52,6 @@ Switch the **theme music** on/off, and decide if games should be saved automatic
 
 ## Gameplay Demo
 
-<video src="superhexagon_v2.mp4" width="600" controls loop autoplay></video>
+<video src="superhexagon_v2.mp4" width="600" controls></video>
 
 
